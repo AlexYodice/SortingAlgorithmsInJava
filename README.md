@@ -1,7 +1,5 @@
 # SortingAlgorithmsInJava
-Certainly! Here's an example of a README.md file that you can use for your repository:
 
-```
 # Shoe Sorting Project
 
 This project aims to demonstrate various sorting algorithms implemented in Java to sort an array of shoe sizes. It was developed as part of personal real-life work experience to improve coding skills and understanding of sorting algorithms.
