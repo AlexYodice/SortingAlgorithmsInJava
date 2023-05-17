@@ -2,7 +2,7 @@
 
 # Shoe Sorting Project
 
-This project aims to demonstrate various sorting algorithms implemented in Java to sort an array of shoe sizes. It was developed as part of personal real-life work experience to improve coding skills and understanding of sorting algorithms.
+This project had mainly the purpose of demonstrating various sorting algorithms implemented in Java, the programs purpose was to sort an array of shoe sizes. It was developed as part of personal real-life work experience> I was aiming to improve my coding skills and understanding of Java using some sorting algorithms.
 
 # Introduction
 
